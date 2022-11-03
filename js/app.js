@@ -1,17 +1,3 @@
-// show cart
-
-(function(){
-    //target cart button
-    const cartInfo = document.getElementById('cart-info');
-    const cart = document.getElementById('cart');
-
-    cartInfo.addEventListener('click', function(){
-        cart.classList.toggle('show-cart');
-    })
-
-
-})();
-
 // add items to the cart
 
 (function(){
@@ -65,6 +51,20 @@ cartBtn.forEach(function(btn){
     });
 });
 
+// show cart
+
+(function(){
+    //target cart button
+    const cartInfo = document.getElementById('cart-info');
+    const cart = document.getElementById('cart');
+
+    cartInfo.addEventListener('click', function(){
+        cart.classList.toggle('show-cart');
+    })
+
+
+})();
+
 // show totals
 function showTotals(){
 
@@ -87,8 +87,3 @@ function showTotals(){
 }
 
 })();
-
-//Things learned
-//DOM traversal using previousElementSibling
-//element.insertBefore
-//reduct method
