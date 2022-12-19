@@ -1211,55 +1211,7 @@ readers do not read off random characters that represent icons */
     src: url("../webfonts/fa-solid-900.eot");
     src: url("../webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900.woff2") format("woff2"), url("../webfonts/fa-solid-900.woff") format("woff"), url("../webfonts/fa-solid-900.ttf") format("truetype"), url("../webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
   
-  
 
-.fa-creative-commons-nc:before {
-  content: "\f4e8"; }
-
-.fa-creative-commons-nc-eu:before {
-  content: "\f4e9"; }
-
-.fa-creative-commons-nc-jp:before {
-  content: "\f4ea"; }
-
-.fa-creative-commons-nd:before {
-  content: "\f4eb"; }
-
-.fa-creative-commons-pd:before {
-  content: "\f4ec"; }
-
-.fa-creative-commons-pd-alt:before {
-  content: "\f4ed"; }
-
-.fa-creative-commons-remix:before {
-  content: "\f4ee"; }
-
-.fa-creative-commons-sa:before {
-  content: "\f4ef"; }
-
-.fa-creative-commons-sampling:before {
-  content: "\f4f0"; }
-
-.fa-creative-commons-sampling-plus:before {
-  content: "\f4f1"; }
-
-.fa-creative-commons-share:before {
-  content: "\f4f2"; }
-
-.fa-credit-card:before {
-  content: "\f09d"; }
-
-.fa-crop:before {
-  content: "\f125"; }
-
-.fa-crop-alt:before {
-  content: "\f565"; }
-
-.fa-cross:before {
-  content: "\f654"; }
-
-.fa-crosshairs:before {
-  content: "\f05b"; }
 
 .fa-crow:before {
   content: "\f520"; }
@@ -1296,6 +1248,54 @@ readers do not read off random characters that represent icons */
 
 .fa-deaf:before {
   content: "\f2a4"; }
+
+  .fa-creative-commons-nc:before {
+    content: "\f4e8"; }
+  
+  .fa-creative-commons-nc-eu:before {
+    content: "\f4e9"; }
+  
+  .fa-creative-commons-nc-jp:before {
+    content: "\f4ea"; }
+  
+  .fa-creative-commons-nd:before {
+    content: "\f4eb"; }
+  
+  .fa-creative-commons-pd:before {
+    content: "\f4ec"; }
+  
+  .fa-creative-commons-pd-alt:before {
+    content: "\f4ed"; }
+  
+  .fa-creative-commons-remix:before {
+    content: "\f4ee"; }
+  
+  .fa-creative-commons-sa:before {
+    content: "\f4ef"; }
+  
+  .fa-creative-commons-sampling:before {
+    content: "\f4f0"; }
+  
+  .fa-creative-commons-sampling-plus:before {
+    content: "\f4f1"; }
+  
+  .fa-creative-commons-share:before {
+    content: "\f4f2"; }
+  
+  .fa-credit-card:before {
+    content: "\f09d"; }
+  
+  .fa-crop:before {
+    content: "\f125"; }
+  
+  .fa-crop-alt:before {
+    content: "\f565"; }
+  
+  .fa-cross:before {
+    content: "\f654"; }
+  
+  .fa-crosshairs:before {
+    content: "\f05b"; }
 
 .fa-delicious:before {
   content: "\f1a5"; }
